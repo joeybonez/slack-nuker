@@ -1,5 +1,5 @@
 # slack-nuker
-Python bot that deletes your slack messages from the current channel
+Python bot that deletes your slack messages from the current channel. Uses Slack Bolt and socket mode to listen for the /nuke command.
 
 ## Instructions for configuration
 1. Create a Slack app using socket mode, with the following permissions
